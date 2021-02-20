@@ -30,21 +30,16 @@
 This Discord bot allow the user to start an organized discussions creating a new temporary channel. This help make discussions easier to keep track of. <a href='https://github.com/pabloverduzco/hilus-bot'>Read more</a>
 </p>
 
-### GitHub Projects Manager
-<p align="left">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pabloverduzco/gh-projects-manager?style=flat-square">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/pabloverduzco/gh-projects-manager?style=flat-square">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/pabloverduzco/gh-projects-manager?color=red&style=flat-square">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pabloverduzco/gh-projects-manager?style=flat-square">
-</p>
-<p>
-A <a href="https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards">GitHub project board</a> help the developers organize and prioritize their work so GitHub Projects Manager allow to handle all the personal boards and project boards in one place. <a href='https://github.com/pabloverduzco/gh-projects-manager'>Read more</a>
-</p>
+
 
 ## Side projects
 ### Robot Tracker
 <p>
   Robot Tracker is a prototype of a robot cleaner interface, it allow the user start a cleaning process and it can even be scheduled for later. <a href='https://github.com/pabloverduzco/robot-tracker#readme'>Read more</a>
+</p>
+
+### GitHub Projects Manager
+A <a href="https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards">GitHub project board</a> help the developers organize and prioritize their work so <strong>GitHub Projects Manager</strong> allow to handle all the personal boards and project boards in one place. <a href='https://github.com/pabloverduzco/gh-projects-manager'>Read more</a>
 </p>
 
 ## Languages and Tools
