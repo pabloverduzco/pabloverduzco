@@ -1,3 +1,3 @@
-export default function Home(): null {
-  return null;
+export default function Home(): JSX.Element {
+  return <h1>Pablo Verduzco</h1>;
 }
