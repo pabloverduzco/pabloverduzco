@@ -18,7 +18,7 @@
 <p>I'm a frontend developer based in Guadalajara, Mexico. As a front-end web developer my goal is to create incredible websites and apps that can be accessible to everyone and also I want to put my problem solving skills  to use for a greater purpose.</p>
 
 ## Open source projects
-### Hilus Discord Bot
+### Hilus Discord Bot (WIP)
 
 <p align="left">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pabloverduzco/hilus-bot?style=flat-square">
@@ -37,10 +37,11 @@ This Discord bot allow the user to start an organized discussions creating a new
 <p>
   Robot Tracker is a prototype of a robot cleaner interface, it allow the user start a cleaning process and it can even be scheduled for later. <a href='https://github.com/pabloverduzco/robot-tracker#readme'>Read more</a>
 </p>
-
+<!--
 ### GitHub Projects Manager
 A <a href="https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards">GitHub project board</a> help the developers organize and prioritize their work so <strong>GitHub Projects Manager</strong> allow to handle all the personal boards and project boards in one place. <a href='https://github.com/pabloverduzco/gh-projects-manager'>Read more</a>
 </p>
+-->
 
 ## Languages and Tools
 <p align="left">
