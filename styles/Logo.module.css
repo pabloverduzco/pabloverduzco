@@ -1,0 +1,23 @@
+.container h1 {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 1.75rem 0;
+  text-transform: lowercase;
+}
+
+.container h1 span {
+  display: inline-block;
+}
+
+.container > span {
+  color: var(--gray-500);
+  font-family: var(--font-mono);
+}
+
+.container > span::before {
+  content: '/';
+  color: var(--white);
+  margin: 0 0.5rem;
+}
