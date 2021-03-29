@@ -1,3 +1,5 @@
+import styles from 'styles/Home.module.css';
+
 export default function Home(): JSX.Element {
-  return <h1>Pablo Verduzco</h1>;
+  return <h2 className={styles.heading}>Hi, I&apos;m Pablo Verduzco.</h2>;
 }
