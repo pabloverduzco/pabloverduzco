@@ -17,9 +17,9 @@
 
 <p>I'm a frontend developer based in Guadalajara, Mexico. As a front-end web developer my goal is to create incredible websites and apps that can be accessible to everyone and also I want to put my problem solving skills  to use for a greater purpose.</p>
 
+<!--
 ## Open source projects
 ### Hilus Discord Bot (WIP)
-
 <p align="left">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pabloverduzco/hilus-bot?style=flat-square">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/pabloverduzco/hilus-bot?style=flat-square">
@@ -29,6 +29,7 @@
 <p>
 This Discord bot allow the user to start an organized discussions creating a new temporary channel. This help make discussions easier to keep track of. <a href='https://github.com/pabloverduzco/hilus-bot'>Read more</a>
 </p>
+-->
 
 
 
