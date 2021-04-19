@@ -17,6 +17,8 @@
   /* Fonts */
   --font-mono: 'DM Mono', monospace;
   --font-sans: 'DM Sans', -apple-system, system-ui, sans-serif;
+  --font-normal: 400;
+  --font-medium: 500;
 }
 
 html {
