@@ -21,3 +21,10 @@
   color: var(--white);
   margin: 0 0.5rem;
 }
+
+@media (min-width: 1024px) {
+  .container h1,
+  .container span {
+    font-size: 1.125rem;
+  }
+}
