@@ -5,10 +5,11 @@
   <a href="https://www.linkedin.com/in/pabloverduzco/">
     <img src="https://img.shields.io/badge/-LinkedIn-%233781da?color=blue&style=for-the-badge" alt="LinkedIn" height="25" />
   </a>
-
+<!--
   <a href="https://www.twitter.com/pablovco">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge" alt="Twitter" height="25" />
   </a>
+-->
 
   <a href="https://www.pabloverduzco.dev/">
     <img src="https://img.shields.io/badge/-pabloverduzco.dev-%233781da?color=black&style=for-the-badge" alt="Personal website" height="25" />
