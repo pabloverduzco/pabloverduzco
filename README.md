@@ -45,6 +45,12 @@ A <a href="https://docs.github.com/en/github/managing-your-work-on-github/about-
 </p>
 -->
 
+### Unsplash Clone
+<p>
+   Project with strategies to reduce loading of non-critical resources at page load time. It use Unsplash API in order to get content to show.
+   <a href='https://github.com/pabloverduzco/unsplash-clone#readme'>Read more</a>
+</p>
+
 ## Languages and Tools
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
