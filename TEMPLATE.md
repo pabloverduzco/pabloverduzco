@@ -1,4 +1,4 @@
-<img align="right" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s6638516af799e8b4/image/if92b145743c4d028/version/1465617157/image.png" height="168px" />
+<img align="left" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s6638516af799e8b4/image/if92b145743c4d028/version/1465617157/image.png" height="168px" />
 
 ### ¡Hola!
 
