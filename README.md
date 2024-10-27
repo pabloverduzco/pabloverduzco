@@ -6,7 +6,7 @@ I'm **Pablo**, a software craftsman passionate about creating scalable and testa
 
 <br />
 
-Ever since I joined GitHub **1** years ago, I've authored **144** commits, identified **0** issues, and contributed **7** pull requests. Each line of code, resolved issue, and pull request represents my commitment to creating impactful software that makes a difference.
+Ever since I joined GitHub **1** years ago, I've authored **145** commits, identified **0** issues, and contributed **7** pull requests. Each line of code, resolved issue, and pull request represents my commitment to creating impactful software that makes a difference.
 
 —
 
